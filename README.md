@@ -19,3 +19,4 @@ Este projeto é um blog estruturado com foco total em **Semântica HTML5** e lay
 
 ---
 Projeto desenvolvido para dominar a estrutura semântica da Web no curso de ADS. 💻🔥
+Com base no curso de Front-End completo do Matheus Battisti.
